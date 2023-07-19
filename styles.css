@@ -1,0 +1,24 @@
+div
+{
+    border:10px solid rgb(235, 31, 102);
+    height:400px;
+    width:400px;
+    position:relative;
+    right:-450px;
+    border-radius: 20px 20px 20px 20px;
+    background-color: aquamarine;
+}
+h1{
+   color:rgb(242, 12, 35)
+}
+#button1,#button2,#button3,#button4,#button5
+{
+    background-color: rgb(239, 8, 208);
+    color:black;
+    font-size:25px;
+    width:40px
+}
+#value1,#value2
+{
+    background-color:beige;
+}
